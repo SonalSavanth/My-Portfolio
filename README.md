@@ -1,157 +1,82 @@
-# Sonal Savanth - Portfolio Website
+# Sonal Savanth - Portfolio Website 🚀
 
 A modern, playful yet professional portfolio website showcasing skills, experience, projects, and education.
+
+## ✨ Latest Updates (March 2026)
+
+### New Features Added:
+- ✅ **Resume Download Button** - Download resume directly from hero section
+- ✅ **4th Project Added** - Smart Document Manager (Flask + RAG + LLM)
+- ✅ **Certificate Gallery** - Visual certificates with images and view buttons
+- ✅ **Certificate Images** - C++, Cyber Security, Finance, Hackathon certificates included
 
 ## 🚀 Features
 
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile
 - **Smooth Animations** - Scroll effects and hover interactions
 - **Clean & Playful** - Professional with a touch of personality
-- **Easy to Customize** - Well-organized code with comments
+- **Easy to Customize** - Well-organized code with comments  
 - **No Dependencies** - Pure HTML, CSS, and vanilla JavaScript
+- **Certificate Showcase** - Click-to-view certificate images
+- **Downloadable Resume** - One-click resume download
 
 ## 📁 Files Included
 
 ```
-portfolio/
-├── index.html          # Main HTML file
-├── style.css           # All styling
-├── script.js           # Interactive features
-├── README.md           # This file
-└── images/             # Image folder
-    ├── nelikka.jpg    # Internship image (replace with yours)
-    └── mindworks.jpg   # Project image (replace with yours)
+sonal-portfolio/
+├── index.html                      # Main HTML file
+├── style.css                       # All styling
+├── script.js                       # Interactive features
+├── README.md                       # This file
+├── QUICKSTART.txt                  # Quick setup guide
+├── Sonal_Savanth_Resume.doc        # Downloadable resume
+└── images/                         # Image folder
+    ├── photo.jpg                   # Profile photo
+    ├── nelikka.png                 # Internship image
+    ├── mindworks.png               # Project image
+    ├── cpp-cert.jpeg               # C++ Certificate ✅
+    ├── CyberSecurityCert.jpg       # Cyber Security Certificate ✅
+    ├── Finance_Course.jpg          # Finance Course Certificate ✅
+    └── HackathonCert.jpeg          # Hackathon Certificate ✅
 ```
 
-## 🎨 Customization
+## 🎨 Sections Overview
 
-### Adding Your Images
+### 1. Hero Section
+- Introduction with animated floating emojis
+- 3 action buttons: View Projects, Download Resume, Get in Touch
+- Social links (GitHub, LinkedIn, Email)
+- Profile photo display
 
-1. **Internship Image (Nellikka):**
-   - Replace `images/nellikka.jpg` with your image
-   - Recommended size: 800x600px or similar ratio
+### 2. Skills
+- Languages, Frameworks, Tools, Soft Skills
 
-2. **Mind-Works Project Image:**
-   - Replace `images/mindworks.jpg` with your image
-   - Recommended size: 800x600px or similar ratio
+### 3. Experience
+- Nellikka Internship with image
 
-### Changing Colors
+### 4. Projects (4 Featured)
+- ML-Enhanced CAPTCHA Refinement
+- Bill-Buddy
+- Smart Document Manager ✨ NEW
+- Mind-Works
 
-Edit the CSS variables in `style.css` (lines 15-20):
+### 5. Certificates & Achievements
+Each certificate includes image, view button, and details
 
-```css
-:root {
-    --primary: #667eea;        /* Main purple color */
-    --secondary: #764ba2;      /* Secondary purple */
-    --accent: #f093fb;         /* Accent pink */
-    /* Change these to your preferred colors! */
-}
-```
+### 6. Education
+- University and school records
 
-### Updating Content
+### 7. Contact
+- Email, Phone, LinkedIn, GitHub
 
-All content is in `index.html`:
-- **Skills:** Line ~100 - Edit skill tags
-- **Experience:** Line ~150 - Update internship details
-- **Projects:** Line ~200 - Modify project descriptions
-- **Contact:** Line ~400 - Update email, phone, links
+## 🌐 Deploy Online (Free!)
 
-## 🌐 How to Use
+**GitHub Pages** | **Netlify** | **Vercel**
 
-### Option 1: Open Locally
-1. Double-click `index.html`
-2. Opens in your default browser
+## 📞 Contact
 
-### Option 2: Deploy Online (Free)
-
-**GitHub Pages:**
-1. Create a GitHub repository
-2. Upload all files
-3. Go to Settings → Pages
-4. Select main branch
-5. Your site will be live at `username.github.io/repo-name`
-
-**Netlify:**
-1. Go to netlify.com
-2. Drag and drop the entire folder
-3. Get instant live URL
-
-**Vercel:**
-1. Go to vercel.com
-2. Import project
-3. Deploy instantly
-
-## 📱 Sections Included
-
-1. **Hero** - Introduction with animated elements
-2. **Skills** - Languages, frameworks, tools, soft skills
-3. **Experience** - Nellikka internship with image
-4. **Projects** - 3 projects (CAPTCHA, Bill-Buddy, Mind-Works)
-5. **Certificates** - All certifications and achievements
-6. **Education** - Academic background
-7. **Contact** - Email, phone, LinkedIn, GitHub
-
-## 🎯 Tips for Best Results
-
-
-### Testing
-- Test on different browsers (Chrome, Firefox, Safari)
-- Check mobile responsiveness
-- Test all links work correctly
-
-### SEO (Optional)
-Add to `<head>` in index.html:
-```html
-<meta name="description" content="Sonal Savanth - Full Stack Developer Portfolio">
-<meta name="keywords" content="developer, portfolio, full-stack, React, Node.js">
-```
-
-
-## 💡 Features Breakdown
-
-### JavaScript Features
-- Mobile menu toggle
-- Smooth scroll navigation
-- Scroll animations (fade in)
-- Active nav link highlighting
-- Parallax effect on hero
-- Project card tilt effect
-- Email copy to clipboard
-
-### CSS Features
-- CSS Grid & Flexbox layout
-- Custom CSS variables (colors, spacing)
-- Gradient backgrounds
-- Smooth transitions
-- Hover effects
-- Responsive breakpoints
-
-## 🐛 Troubleshooting
-
-**Images not showing?**
-- Check file paths match exactly
-- Ensure images are in `images/` folder
-- Check file extensions (jpg, png)
-
-**JavaScript not working?**
-- Open browser console (F12)
-- Check for error messages
-- Ensure script.js is loading
-
-**Mobile menu not working?**
-- Clear browser cache
-- Check hamburger icon is visible
-- Try different browser
-
-## 📞 Need Help?
-
-- Email: sonalsavanth23@lpu.in
-- LinkedIn: linkedin.com/in/sonal-savanth
-- GitHub: github.com/SonalSavanth
-
-## 📄 License
-
-Free to use and modify for personal purposes.
+sonalsavanth23@lpu.in | github.com/SonalSavanth
 
 ---
 
+**Version 2.0 - March 2026**
